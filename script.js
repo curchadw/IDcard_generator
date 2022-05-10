@@ -1,4 +1,4 @@
-import {License} from './License'
+import {License} from 'License'
 
 const fName = document.getElementById('fname')
 const lName = document.getElementById('lname')
